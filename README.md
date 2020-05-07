@@ -1,4 +1,4 @@
-# climate-change-emo-analysis
+# Mining Sentiments and Arguments for Climate Change Tweet Classification
 
 A project for Dr. Stede's Sentiment &amp; Argument Mining PM
 
